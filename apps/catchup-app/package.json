@@ -1,0 +1,8 @@
+{
+  "name": "@react-monorepo/catchup-app",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "catchup-app"
+  }
+}
